@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@hono/node-server": "^1.13.4",
+    "hono": "^4.6.8",
+    "squint-cljs": "^0.8.123"
+  }
+}
